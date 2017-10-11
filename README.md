@@ -1,12 +1,7 @@
-# Ultimate Vue.js Developers Course
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 
 ### Project 2: Vue.js Cinema
 
-#### Demo
-
-See the completed project here: [http://vuejs-cinema.vuejsdevelopers.com/](http://vuejs-cinema.vuejsdevelopers.com/)
 
 #### Pre-installation
 
@@ -22,11 +17,7 @@ See the completed project here: [http://vuejs-cinema.vuejsdevelopers.com/](http:
     1. Fork this repository (see top right corner)
     2. Clone the forked repository on your local file system
     
-        ```
-        cd /path/to/install/location
-        
-        git clone git@github.com:[your_username]/vuejs-cinema.git
-        ```
+ 
     
     **Option 2 (easier)**
     
@@ -35,7 +26,7 @@ See the completed project here: [http://vuejs-cinema.vuejsdevelopers.com/](http:
     ```
     cd /path/to/install/location
     
-    git clone https://github.com/vuejsdevelopers/vuejs-cinema.git
+    git clone https://github.com/jeff-mccommas/VueJS-MovieListingsApp.git
     ```    
    
 2. Install dependencies
@@ -60,7 +51,4 @@ See the completed project here: [http://vuejs-cinema.vuejsdevelopers.com/](http:
 
 Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
 
-#### Lecture branches
-
-Note that branches in the repo named `lecture/xxx` correspond to course lectures.
 
